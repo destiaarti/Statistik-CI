@@ -14,13 +14,13 @@ ADMIN LTE 3 TEMPLATE
 **************************
 SCREENSHOOT
 **************************
-![1](https://user-images.githubusercontent.com/54435481/67668750-c7a78580-f92d-11e9-9ae6-eb2c42ecad74.png)
+!(https://user-images.githubusercontent.com/54435481/67668750-c7a78580-f92d-11e9-9ae6-eb2c42ecad74.png)
 
-![2](https://user-images.githubusercontent.com/54435481/67668752-c8401c00-f92d-11e9-9aa7-9c11ca9a9d15.png)
+!(https://user-images.githubusercontent.com/54435481/67668752-c8401c00-f92d-11e9-9aa7-9c11ca9a9d15.png)
 
-![3](https://user-images.githubusercontent.com/54435481/67668944-240aa500-f92e-11e9-8909-c750a68a8b7e.png)
+!(https://user-images.githubusercontent.com/54435481/67668944-240aa500-f92e-11e9-8909-c750a68a8b7e.png)
 
-![4](https://user-images.githubusercontent.com/54435481/67668756-c8d8b280-f92d-11e9-9c78-bc2e137f6d4c.png)
+!(https://user-images.githubusercontent.com/54435481/67668756-c8d8b280-f92d-11e9-9c78-bc2e137f6d4c.png)
 
-![5](https://user-images.githubusercontent.com/54435481/67668758-c8d8b280-f92d-11e9-9bce-2286d1cd2b7f.png)
+!(https://user-images.githubusercontent.com/54435481/67668758-c8d8b280-f92d-11e9-9bce-2286d1cd2b7f.png)
 
